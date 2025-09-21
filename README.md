@@ -43,11 +43,6 @@ DoodlAI is an interactive web application that uses machine learning to recogniz
 git clone https://github.com/Abinaya-Subramaniam/DoodlAI.git
 cd DoodlAI
 ```
-1. **Clone the repository**
-```bash
-git clone https://github.com/Abinaya-Subramaniam/DoodlAI.git
-cd DoodlAI
-```
 2. **Set up the Backend**
 ```bash
 cd backend
